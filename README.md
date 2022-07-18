@@ -29,3 +29,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:   I am always open to new ideas and opportunities. You can learn more about me on my [Website](https://palakdevgan.github.io/react-portfolio/) or [LinkedIn](https://www.linkedin.com/in/palakdevgan) or reach out to me directly at [palakdevgan7@gmail.com](mailto:palakdevgan7@gmail.com)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<p>
+   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  </p>
