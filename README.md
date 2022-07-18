@@ -57,4 +57,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub Pages-222222?style=flat-square&logo=github-pages&logoColor=white" />
    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
+  <img alt="PWA" src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white" />
+  <img alt="Lighthouse" src="https://img.shields.io/badge/-Lighthouse-F44B21?style=flat-square&logo=Lighthouse&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   </p>
