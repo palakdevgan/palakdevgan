@@ -52,4 +52,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
     <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" />
  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
+  <img alt="json" src="https://img.shields.io/badge/-json-0769AD?style=flat-square&logo=json&logoColor=white" />
+  <img alt="Google Fonts" src="https://img.shields.io/badge/-Google Fonts-4285F4?style=flat-square&logo=google-fonts&logoColor=white" />
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub Pages-222222?style=flat-square&logo=github-pages&logoColor=white" />
+   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   </p>
