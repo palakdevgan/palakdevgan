@@ -26,7 +26,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto, Ontario, Canada.
 
-- :telescope: I am a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything               and everything that can be classified as technology💻 fascinates me.I’m working as a Software Engineer and contributing to frontend and backend for 
+- :telescope: I am a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything               and everything that can be classified as technology💻 fascinates me. I’m working as a Software Engineer and contributing to frontend and backend for 
               building web applications.
               
 - :seedling:  I currently live in Toronto 🌉 and have recently completed Certification in Full Stack Web Development📈 from University of Toronto.
